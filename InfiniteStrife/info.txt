@@ -1,0 +1,10 @@
+#
+Name: Infinite Strife,
+Path: 26729015
+Song: 26729015.mp3
+Picture: 26729015.png
+Chart: 26729015.json
+Level: IN  Lv.16
+Composer: BlackYooh vs. siromaru
+Charter: Ziyieee & ajinyi
+Illustrator: Enji
